@@ -1,4 +1,4 @@
-# Wound Care Medical Billing and Coding Optimization
+# Wound Care Billing and Coding Optimization
 
 This repository is dedicated to the technical documentation and RCM (Revenue Cycle Management) frameworks for **Wound Care Specialty Billing**. It provides resources to ensure accurate reimbursement for complex wound treatments and surgical interventions.
 
